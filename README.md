@@ -1,9 +1,8 @@
 ## 2024 DB Finance and Economy Contest (Economics Sector)<br>
 <p>
 - Team (팀): 계량해보자 (Let’s Quantify) <br>
-- Members (팀원): 김겨레 심우석 <br>
-- Topic: the impact of legal regulations on firm size and support on firm growth)  
-- 주제: 기업 규모에 따른 차등정책과 중소기업의 성장성
+- Members (팀원): Gyure Kim (김겨레) Wooseok Sim (심우석) <br>
+- Topic (주제): the impact of legal regulations on firm size and support on firm growth (기업 규모에 따른 차등정책이 기업 성장에 미치는 영향)
 - Grand Prize Winner
 
 ---------
