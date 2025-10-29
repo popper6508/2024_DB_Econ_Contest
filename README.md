@@ -2,7 +2,7 @@
 <p>
 - Team (팀): 계량해보자 (Let’s Quantify) <br>
 - Members (팀원): Gyure Kim (김겨레) Wooseok Sim (심우석) <br>
-- Topic (주제): the impact of legal regulations on firm size and support on firm growth (기업 규모에 따른 차등정책이 기업 성장에 미치는 영향)
+- Topic (주제): the impact of legal regulations on firm size and support on firm growth (기업 규모에 따른 차등정책이 기업 성장에 미치는 영향) <br>
 - Grand Prize Winner
 
 ---------
